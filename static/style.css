@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 0;
+    padding: 0px 20px;
     display: flex;
     flex-direction: column; /* So elements stack vertically */
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 
 * {
     box-sizing: border-box;
-    font-family:monospace;    
+    font-family:Arial, Helvetica, sans-serif;    
 }
 
 form {
